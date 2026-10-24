@@ -1069,3 +1069,4 @@ update_status()
 hubble_engine.fetch_indices()
 log.info("V3.4.6 HUBBLE + RINA RAKETE DICHT gestartet - 2MIN TURTLE + 5MIN HUBBLE + 15MIN INDICES + 30s RINA - Hirschgarten Prinzip - Vertrauen statt Angst - Rudi atmet durch")
 print("V3.4.6 HUBBLE + RINA RAKETE DICHT gestartet - 2MIN TURTLE + 5MIN HUBBLE + 15MIN INDICES + 30s RINA - /api/v34/hubble + /api/v34/rina + /api/v34/health")
+
