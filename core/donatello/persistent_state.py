@@ -60,3 +60,4 @@ def log_day(entry):
         with open(LOG_FILE, "a") as f:
             f.write(json.dumps(entry, default=str) + "\n")
     except: pass
+
